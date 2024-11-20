@@ -32,6 +32,5 @@ IMPLEMENTATION : The quiz is implemented in Python, utilizing file operations su
 # Conclusion
 In conclusion, this research demonstrates the utility of file handling in building an interactive, scalable quiz system for evaluating knowledge in computer science subjects. By using Python’s built-in file handling capabilities, the system offers a simple yet effective solution for storing and retrieving quiz data.
 
-Future Scope
+# Future Scope
 There is no as such future scope of this quiz but enhances our file handling concepts and problem solving skills.
-
